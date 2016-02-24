@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication15", "MvcApplication15\MvcApplication15.csproj", "{97F870AD-6604-4909-830A-88F41453EEF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoGames.Data", "VideoGames.Data\VideoGames.Data.csproj", "{A2571535-1CFC-4473-BB39-5BF8BEC2A6EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97F870AD-6604-4909-830A-88F41453EEF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97F870AD-6604-4909-830A-88F41453EEF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97F870AD-6604-4909-830A-88F41453EEF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97F870AD-6604-4909-830A-88F41453EEF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2571535-1CFC-4473-BB39-5BF8BEC2A6EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2571535-1CFC-4473-BB39-5BF8BEC2A6EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2571535-1CFC-4473-BB39-5BF8BEC2A6EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2571535-1CFC-4473-BB39-5BF8BEC2A6EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
